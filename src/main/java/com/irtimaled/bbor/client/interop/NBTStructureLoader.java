@@ -1,7 +1,7 @@
 package com.irtimaled.bbor.client.interop;
 
-import com.irtimaled.bbor.common.ReflectionHelper;
 import com.irtimaled.bbor.common.EventBus;
+import com.irtimaled.bbor.common.ReflectionHelper;
 import com.irtimaled.bbor.common.events.StructuresLoaded;
 import com.irtimaled.bbor.common.models.DimensionId;
 import net.minecraft.nbt.CompoundNBT;
